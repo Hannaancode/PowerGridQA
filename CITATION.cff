@@ -1,9 +1,12 @@
 cff-version: 1.1.0
-message: "If you use this dataset, please cite it as below."
+message: "If you use this software, please cite it as below."
 authors:
-- family-names: Abdul Hannaan
-  given-names: Abdul Hannaan
-orcid: https://orcid.org/0009-0008-6097-4428
-title:Hannaancode/PowerGridQA: PowerGridQA - A STRUCTURED QUESTION–ANSWER DATASET FOR LARGE LANGUAGE MODELS IN POWER SYSTEM DYNAMICS AND OPERATIONS
-version: Dataset
+- family-names: "Abdul Hannaan"
+  given-names: "Abdul Hannaan"
+  orcid: "https://orcid.org/0009-0008-6097-4428"
+
+title: "PowerGridQA - A STRUCTURED QUESTION–ANSWER DATASET FOR LARGE LANGUAGE MODELS IN POWER SYSTEM DYNAMICS AND OPERATIONS"
+version: 1.0.0
+doi: 281/zenodo.17637002
 date-released: 2025-11-18
+url: "https://github.com/Hannaancode/PowerGridQA.git "
