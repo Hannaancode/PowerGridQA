@@ -7,6 +7,6 @@ authors:
 
 title: "PowerGridQA - A STRUCTURED QUESTION–ANSWER DATASET FOR LARGE LANGUAGE MODELS IN POWER SYSTEM DYNAMICS AND OPERATIONS"
 version: 1.0.0
-doi: 281/zenodo.17637002
+doi: https://doi.org/10.5281/zenodo.17637002
 date-released: 2025-11-18
 url: "https://github.com/Hannaancode/PowerGridQA.git "
