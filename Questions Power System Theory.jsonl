@@ -1,9 +1,6 @@
 {"question": "What is Resistance?", "answer": " The resistivity of the material from which the component is made."}
 {"question": "What is AC Impedance?", "answer": " Increased area of the conducting plates; Reduced separation between the conducting plates."}
 {"question": "What are the main types of relays?", "answer": "e Directional Comparison Blocking (DCB); Directional Comparison Unblocking (DCU)."}
-{"question": "What is Generators?", "answer": "RPM (revolutions per minute) is the speed of the generator rotor; f is the frequency of the power system."}
-{"question": "What is AC Circuit Breakers & Switches?", "answer": "Oil circuit breakers."}
-{"question": "What is Interconnections?", "answer": " The Eastern Interconnection (#1 in Figure 2-91) covers the Eastern half of North America."}
 {"question": "What is Role of NERC?", "answer": " NERC develops and enforces Reliability Standards for the bulk power system."}
 {"question": "What is Development of Power Transfer Equations?", "answer": " The sending- and receiving-end bus voltages; The power angle between the two buses."}
 {"question": "What is Summary of Active and Reactive Power?", "answer": "Active power does actual work and is measured in MW; Reactive power supports voltage and is measured in Mvar."}
