@@ -20,4 +20,5 @@ If you find this research or code useful, please cite our paper:
 
 *A. Hannaan et al., "A Structured Question–Answer Dataset for Large Language Models in Power System Dynamics and Operations," in IEEE Access, vol. 14, pp. 8391-8407, 2026, doi: 10.1109/ACCESS.2026.3652625*  
 DOI: [10.1109/ACCESS.2026.3652625](https://doi.org)
+IEEE Xplore: [https://ieeexplore.ieee.org/abstract/document/11345118](https://ieeexplore.ieee.org/abstract/document/11345118)
 
