@@ -14,4 +14,10 @@ It integrates data from textbooks, operational standards (NERC Lessons Learned),
 | **NERC Operational Insight** | Event-driven Q–A derived from NERC *Lessons Learned* reports, capturing real-world grid failures and recovery measures. | 4,696  | NERC LL20****–LL2024**** |
 | **Reasoning-Based Scenarios** | Synthetic causal, procedural, and comparative reasoning questions built using grid-aware templates and validation scripts. | 788 | 
 
+## Citation
+
+If you find this research or code useful, please cite our paper:
+
+*A. Hannaan et al., "A Structured Question–Answer Dataset for Large Language Models in Power System Dynamics and Operations," in IEEE Access, vol. 14, pp. 8391-8407, 2026, doi: 10.1109/ACCESS.2026.3652625*  
+DOI: [10.1109/ACCESS.2026.3652625](https://doi.org)
 
